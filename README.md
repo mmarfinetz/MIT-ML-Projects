@@ -110,18 +110,11 @@ jupyter notebook [notebook-name].ipynb
 3. **Data quality matters** - Proper preprocessing and feature engineering often improve performance more than algorithm selection
 4. **Business context is crucial** - The best model isn't always the most complex; interpretability and actionability matter
 
-## 🎯 Future Enhancements
-
-- [ ] Deploy models as web applications
-- [ ] Add AutoML comparisons
-- [ ] Implement real-time prediction APIs
-- [ ] Create interactive dashboards for results visualization
-- [ ] Add model monitoring and drift detection
 
 ## 📫 Contact
 
 **Mitchell Marfinetz**
-- GitHub: [@mitchmarfinetz](https://github.com/[your-username])
+- GitHub: [@mmarfinetz](https://github.com/[your-username])
 - LinkedIn: [Mitchell Marfinetz](https://linkedin.com/in/[your-linkedin])
 
 ## 🙏 Acknowledgments

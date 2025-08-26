@@ -15,36 +15,48 @@ This repository contains my completed machine learning projects from MIT's Profe
 - **Business Impact:** Enables data-driven pricing strategies for the emerging used car market
 
 ### 2. [Boston Housing Price Prediction](./02-Boston-Housing-Prediction)  
+<br>
+<img src="thumbnails/Learners_Notebook_Boston_house_price (1).jpg" alt="Boston Housing - Notebook Thumbnail" width="420">
 **Objective:** Predict housing prices in Boston using multiple regression techniques
 - **Techniques:** Multiple Linear Regression, Feature Engineering
 - **Dataset:** Boston Housing Dataset
 - **Applications:** Real estate valuation, market analysis
 
 ### 3. [Machine Learning Classification](./03-Classification-ML)
+<br>
+<img src="thumbnails/Learner+Notebook+-+Project_Classification_ML.jpg" alt="Classification ML - Notebook Thumbnail" width="420">
 **Objective:** Implement and compare various classification algorithms
 - **Techniques:** Logistic Regression, SVM, Decision Trees, Random Forest
 - **Evaluation:** Accuracy, Precision, Recall, F1-Score, ROC-AUC
 - **Applications:** Binary and multi-class classification problems
 
 ### 4. [Classification - Practical Data Science](./04-Classification-PDS)
+<br>
+<img src="thumbnails/Learner_Notebook_Classification_PDS.jpg" alt="Classification PDS - Notebook Thumbnail" width="420">
 **Objective:** Apply classification techniques to real-world datasets
 - **Focus:** Feature selection, cross-validation, hyperparameter tuning
 - **Techniques:** Ensemble methods, gradient boosting
 - **Emphasis:** Model interpretability and business insights
 
 ### 5. [Time Series Analysis](./05-Time-Series-Analysis)
+<br>
+<img src="thumbnails/Learner_Notebook_Project_Time_Series.jpg" alt="Time Series - Notebook Thumbnail" width="420">
 **Objective:** Forecast time-dependent data using statistical methods
 - **Techniques:** ARIMA, Seasonal Decomposition, Exponential Smoothing
 - **Applications:** Demand forecasting, trend analysis
 - **Evaluation:** RMSE, MAE, MAPE
 
 ### 6. [Unsupervised Learning](./06-Unsupervised-Learning)
+<br>
+<img src="thumbnails/Learner_Notebook_Unsupervised_Learning_Project_(1) (1).jpg" alt="Unsupervised Learning - Notebook Thumbnail" width="420">
 **Objective:** Discover patterns in unlabeled data
 - **Techniques:** K-Means, Hierarchical Clustering, PCA, t-SNE
 - **Applications:** Customer segmentation, anomaly detection
 - **Evaluation:** Silhouette score, elbow method
 
 ### 7. [SVHN Deep Learning](./07-SVHN-Deep-Learning)
+<br>
+<img src="thumbnails/CNN_Project_Learner_Notebook_SVHN (1).jpg" alt="SVHN Deep Learning - Notebook Thumbnail" width="420">
 **Objective:** Classify Street View House Numbers using deep learning
 - **Techniques:** Convolutional Neural Networks (CNN), Neural Networks
 - **Dataset:** Google Street View House Numbers (SVHN)

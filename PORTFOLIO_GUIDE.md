@@ -3,7 +3,7 @@
 ### 🎯 Quick Navigation
 Each project demonstrates specific skills relevant to different roles:
 
-| If you're hiring for... | Check out... | Key Skills Demonstrated |
+| If you're looking for: | Check out... | Key Skills Demonstrated |
 |------------------------|--------------|------------------------|
 | **Data Scientist** | Projects 1, 2, 5 | Statistical modeling, EDA, business insights |
 | **ML Engineer** | Projects 3, 4, 6 | Model optimization, deployment readiness |

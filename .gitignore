@@ -18,12 +18,28 @@ __pycache__/
 logs/
 *.log
 
-# Large/raw data
+# Large/model artifacts
 *.hdf5
 *.parquet
 *.feather
 *.sqlite
 *.db
+*.pkl
+*.model
+*.joblib
+models/
+
+# IDE
+.vscode/
+.idea/
+
+# Temp
+*.tmp
+temp/
+tmp/
+
+# Docs build
+docs/_build/
 
 # Environments
 .env

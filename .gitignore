@@ -19,13 +19,11 @@ logs/
 *.log
 
 # Large/raw data
-*.h5
 *.hdf5
 *.parquet
 *.feather
 *.sqlite
 *.db
-ratings_Electronics.csv
 
 # Environments
 .env

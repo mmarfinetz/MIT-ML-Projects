@@ -1,7 +1,5 @@
 # 📚 Portfolio Presentation Guide
 
-## For Recruiters: What to Look For
-
 ### 🎯 Quick Navigation
 Each project demonstrates specific skills relevant to different roles:
 
@@ -109,29 +107,13 @@ jupyter notebook
 - Optimized beyond baseline models
 - Suggested future enhancements
 
-## 🎓 MIT Certification Context
+## Context
 
 These projects were completed as part of:
 - **MIT Professional Education - Applied Data Science Program**
 - **Duration**: 12 weeks intensive program
 - **Topics**: Supervised/Unsupervised Learning, Deep Learning, Time Series
 - **Format**: Hands-on projects with real-world datasets
-
-## 💬 Interview Talking Points
-
-Be prepared to discuss:
-1. **Trade-offs**: Why Linear Regression beat Random Forest for car pricing
-2. **Challenges**: Handling missing data and outliers
-3. **Business Value**: How models translate to ROI
-4. **Scalability**: How to deploy these models in production
-5. **Improvements**: What you'd do differently with more time/resources
-
-## 🔗 Connect
-
-**Mitchell Marfinetz**
-- Email: [your-email]
-- LinkedIn: [your-linkedin]
-- GitHub: [@your-username]
 
 ---
 

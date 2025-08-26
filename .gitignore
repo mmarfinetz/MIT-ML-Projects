@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert*
+
+# Logs
+logs/
+*.log
+
+# Large/raw data
+*.h5
+*.hdf5
+*.parquet
+*.feather
+*.sqlite
+*.db
+ratings_Electronics.csv
+
+# Environments
+.env
+.venv/
+venv/
+ENV/

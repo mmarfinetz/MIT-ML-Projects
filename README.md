@@ -167,5 +167,3 @@ jupyter notebook [notebook-name].ipynb
 - `ratings_Electronics.csv`
 - `SVHN_data.h5`
 
-## Notes
-- All notebooks use real datasets; no synthetic fallbacks.

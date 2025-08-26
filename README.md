@@ -128,22 +128,22 @@ jupyter notebook [notebook-name].ipynb
 
 ## Executed Notebooks
 
-- [CNN_Project_Learner_Notebook_SVHN (1)](<CNN_Project_Learner_Notebook_SVHN (1)-executed.ipynb>) — HTML: [CNN_Project_Learner_Notebook_SVHN (1).html](<CNN_Project_Learner_Notebook_SVHN (1).html>)  
+- [CNN_Project_Learner_Notebook_SVHN (1)](<07-SVHN-Deep-Learning/CNN_Project_Learner_Notebook_SVHN (1)-executed.ipynb>)  
   <br>
   <img src="thumbnails/CNN_Project_Learner_Notebook_SVHN (1).jpg" alt="CNN_Project_Learner_Notebook_SVHN (1)" width="420">
-- [Learner+Notebook+-+Project_Classification_ML](<Learner+Notebook+-+Project_Classification_ML-executed.ipynb>) — HTML: [Learner+Notebook+-+Project_Classification_ML.html](<Learner+Notebook+-+Project_Classification_ML.html>)  
+- [Learner+Notebook+-+Project_Classification_ML](<03-Classification-ML/Learner+Notebook+-+Project_Classification_ML-executed.ipynb>)  
   <br>
   <img src="thumbnails/Learner+Notebook+-+Project_Classification_ML.jpg" alt="Learner+Notebook+-+Project_Classification_ML" width="420">
-- [Learner_Notebook_Classification_PDS](<Learner_Notebook_Classification_PDS-executed.ipynb>) — HTML: [Learner_Notebook_Classification_PDS.html](<Learner_Notebook_Classification_PDS.html>)  
+- [Learner_Notebook_Classification_PDS](<04-Classification-PDS/Learner_Notebook_Classification_PDS-executed.ipynb>)  
   <br>
   <img src="thumbnails/Learner_Notebook_Classification_PDS.jpg" alt="Learner_Notebook_Classification_PDS" width="420">
-- [Learner_Notebook_Project_Time_Series](<Learner_Notebook_Project_Time_Series-executed.ipynb>) — HTML: [Learner_Notebook_Project_Time_Series.html](<Learner_Notebook_Project_Time_Series.html>)  
+- [Learner_Notebook_Project_Time_Series](<05-Time-Series-Analysis/Learner_Notebook_Project_Time_Series-executed.ipynb>)  
   <br>
   <img src="thumbnails/Learner_Notebook_Project_Time_Series.jpg" alt="Learner_Notebook_Project_Time_Series" width="420">
-- [Learner_Notebook_Unsupervised_Learning_Project_(1) (1)](<Learner_Notebook_Unsupervised_Learning_Project_(1) (1)-executed.ipynb>) — HTML: [Learner_Notebook_Unsupervised_Learning_Project_(1) (1).html](<Learner_Notebook_Unsupervised_Learning_Project_(1) (1).html>)  
+- [Learner_Notebook_Unsupervised_Learning_Project_(1) (1)](<06-Unsupervised-Learning/Learner_Notebook_Unsupervised_Learning_Project_(1) (1)-executed.ipynb>)  
   <br>
   <img src="thumbnails/Learner_Notebook_Unsupervised_Learning_Project_(1) (1).jpg" alt="Learner_Notebook_Unsupervised_Learning_Project_(1) (1)" width="420">
-- [Learners_Notebook_Boston_house_price (1)](<Learners_Notebook_Boston_house_price (1)-executed.ipynb>) — HTML: [Learners_Notebook_Boston_house_price (1).html](<Learners_Notebook_Boston_house_price (1).html>)  
+- [Learners_Notebook_Boston_house_price (1)](<02-Boston-Housing-Prediction/Learners_Notebook_Boston_house_price (1)-executed.ipynb>)  
   <br>
   <img src="thumbnails/Learners_Notebook_Boston_house_price (1).jpg" alt="Learners_Notebook_Boston_house_price (1)" width="420">
 
